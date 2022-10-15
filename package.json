@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "openzeppelin-solidity": "^4.6.0",
-    "seb3": "^1.0.0"
-  }
-}
